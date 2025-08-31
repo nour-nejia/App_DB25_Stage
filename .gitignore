@@ -1,1 +1,6 @@
+# Ignore executable files
+Main.exe
 
+# Ignore images and icons
+app_icon.ico
+car_main.jpg
