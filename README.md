@@ -7,12 +7,12 @@ These files, in **BLOB** or **XML** format, contain essential information for ve
 
 ---
 ##  Features
-- **Import and parse** XML configuration files.  
-- **Search** for specific DIDs.  
-- **Extract** BLOB files from the database.  
-- **User-friendly interface** built with CustomTkinter.  
-- **Fast and reliable parsing** with security measures.  
-- **Portable executable** for Windows (via Nuitka + Inno Setup).  
+- Import and parse XML configuration files.  
+- Search for specific DIDs.  
+- Extract BLOB files from the database.  
+- User-friendly interface built with CustomTkinter.  
+- Fast and reliable parsing
+- Portable executable for Windows (via Nuitka + Inno Setup).  
 
 ---
 ##  Technologies Used
