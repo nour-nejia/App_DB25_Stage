@@ -19,7 +19,6 @@ These files, in **BLOB** or **XML** format, contain essential information for ve
 - **Python** – Core programming language  
 - **CustomTkinter** – GUI framework  
 - **lxml & xml.etree.ElementTree** – XML parsing  
-- **SQLite/MySQL** – Database management  
 - **Nuitka** – Python to executable compilation  
 - **Inno Setup** – Windows installer packaging  
 - **Git/GitHub** – Version control  
